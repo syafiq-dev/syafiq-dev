@@ -8,7 +8,7 @@
 - 📍 Based in Kuala Lumpur, Malaysia
 - 👨‍💻 Check out my portfolio | https://portfolio.syafiq.art
 - 📫 How to reach me: syafiq.dev@pm.me
-- ⚡ Fun fact: I love exploring new knowledge and tech skills
+- ⚡ Fun fact: I love exploring new experiences, knowledge and tech skills
 <!---
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
