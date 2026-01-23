@@ -2,13 +2,13 @@
 
 ### Full-stack dev | IT Enthusiast | WMS Specialist
 
-- 🔭 I’m currently working on a 3D website with interesting mini-game feature!
+- 🔭 I’m currently working on a web-based minigame with an interesting 3D features!
 - 🌱 I’m currently learning advanced dashboards via MERN Stack
-- 👯 I’m looking to collaborate on personalized web-based systems and open-source projects.
+- 👨‍💻 I’m looking to collaborate on personalized web-based systems and open-source projects
 - 📍 Based in Kuala Lumpur, Malaysia
-- 👨‍💻 Check out my portfolio | https://portfolio.syafiq.art
-- 📫 How to reach me: syafiq.dev@pm.me
-- ⚡ Fun fact: I love exploring new experiences, knowledge and tech skills
+- 🌐 Check out my portfolio | https://portfolio.syafiq.art
+- 📬 How to reach me: syafiq.dev@pm.me
+- 🔥 Fun fact: I love exploring new experiences, knowledge and tech skills.
 <!---
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
