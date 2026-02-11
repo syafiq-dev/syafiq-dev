@@ -9,6 +9,12 @@
 - 🌐 Check out my portfolio | https://portfolio.syafiq.art
 - 📬 How to reach me: syafiq.dev@pm.me
 - 🔥 Fun fact: I love exploring new experiences, knowledge and tech skills.
+
+## 💻 Tech Stack
+
+## 
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=ff69b4)
+##
 <!---
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
