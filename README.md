@@ -11,7 +11,7 @@
 - 🔥 Fun fact: I love exploring new experiences, knowledge and tech skills.
 
 ## 💻 Tech Stack
-![](https://img.shields.io/badge/syafiq-dev-ff69b4)
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white&style=for-the-badge)](#) [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff&style=for-the-badge)](#)
 
 
 ## 
