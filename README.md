@@ -1,4 +1,4 @@
-## Hello there👋 I'm Syafiq
+## Hello there👋 I'm Syafiq | ![](https://img.shields.io/badge/syafiq-dev-ff69b4)
 
 ### Full-stack dev | IT Enthusiast | WMS Specialist
 
@@ -11,6 +11,8 @@
 - 🔥 Fun fact: I love exploring new experiences, knowledge and tech skills.
 
 ## 💻 Tech Stack
+![](https://img.shields.io/badge/syafiq-dev-ff69b4)
+
 
 ## 
 ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=ff69b4)
