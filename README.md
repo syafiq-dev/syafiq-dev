@@ -1,4 +1,4 @@
-## Hello there👋 I'm Syafiq | ![](https://img.shields.io/badge/syafiq-dev-ff69b4)
+## ![](https://img.shields.io/badge/Hello%20there?style=for-the-badge)👋 I'm Syafiq | ![](https://img.shields.io/badge/syafiq-dev-ff69b4)
 
 ### Full-stack dev | IT Enthusiast | WMS Specialist
 
@@ -45,10 +45,14 @@
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge)](#)
 
 ## 
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=ff69b4)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syafiq-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ##
+
+
+
 <!---
+![](https://komarev.com/ghpvc/?username=syafiq-dev&abbreviated=true&color=ff69b4)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=syafiq-dev)
 
 [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff&style=for-the-badge)](#)
 
