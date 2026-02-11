@@ -1,4 +1,4 @@
-## ![](https://img.shields.io/badge/Hello%20there?style=for-the-badge)👋 I'm Syafiq | ![](https://img.shields.io/badge/syafiq-dev-ff69b4)
+# [![](https://img.shields.io/badge/Hello%20there-222?style=for-the-badge)](#) [![](https://img.shields.io/badge/%20-111?logo=clubhouse&logoSize=auto&style=for-the-badge)](#) [![](https://img.shields.io/badge/I'M-222?style=for-the-badge)](#) [![](https://img.shields.io/badge/syafiq-dev-7952B3?labelColor=646CFF&style=for-the-badge)](#)
 
 ### Full-stack dev | IT Enthusiast | WMS Specialist
 
@@ -23,7 +23,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)](#)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)](#)
+[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](#)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white&style=for-the-badge)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white&style=for-the-badge)](#)
 [![Construct](https://img.shields.io/badge/Construct-00FFDA?logo=construct3&logoColor=000&style=for-the-badge)](#)
@@ -31,6 +31,8 @@
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-a22846?logo=raspberrypi&logoColor=fff&style=for-the-badge)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](#)
 [![Portainer](https://img.shields.io/badge/Portainer-C080FF?logo=Portainer&logoColor=fff&style=for-the-badge)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-444?logo=javascript&logoColor=F7DF1E&style=for-the-badge)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)](#)
 [![C](https://img.shields.io/badge/C-00599C?logoColor=white&style=for-the-badge)](#)
@@ -42,7 +44,11 @@
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white&style=for-the-badge)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white&style=for-the-badge)](#)
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff&style=for-the-badge)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge)](#)
+[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](#)
+[![AE](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)](#)
+[![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](#)
+[![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](#)
 
 ## 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syafiq-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
