@@ -44,9 +44,9 @@
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff&style=for-the-badge)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge)](#)
 
-
 ## 
 ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true&color=ff69b4)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=syafiq-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ##
 <!---
 
