@@ -10,6 +10,7 @@
 - 📬 How to reach me: syafiq.dev@pm.me
 - 🔥 Fun fact: I love exploring new experiences, knowledge and tech skills.
 
+### 🌐 Links
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-FC60A8?style=for-the-badge&logo=adidas&logoColor=fff&labelColor=333)](https://portfolio.syafiq.art)
 [![Sushi Terbang](https://img.shields.io/badge/Sushi_Terbang-7952B3?style=for-the-badge&logo=youtubegaming&logoColor=fff&labelColor=333)](https://sushiterbang.syafiq.art)
 
