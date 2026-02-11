@@ -6,9 +6,12 @@
 - 🌱 I’m currently learning advanced dashboards via MERN Stack
 - 👨‍💻 I’m looking to collaborate on personalized web-based systems and open-source projects
 - 📍 Based in Kuala Lumpur, Malaysia
-- 🌐 Check out my portfolio | https://portfolio.syafiq.art
+- 🌐 Open for remote work | web-dev | data-analyst
 - 📬 How to reach me: syafiq.dev@pm.me
 - 🔥 Fun fact: I love exploring new experiences, knowledge and tech skills.
+
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-FC60A8?style=for-the-badge&logo=adidas&logoColor=fff&labelColor=333)](https://portfolio.syafiq.art)
+[![Sushi Terbang](https://img.shields.io/badge/Sushi_Terbang-7952B3?style=for-the-badge&logo=youtubegaming&logoColor=fff&labelColor=333)](https://sushiterbang.syafiq.art)
 
 ## 💻 Tech Stack
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)](#)
